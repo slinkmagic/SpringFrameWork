@@ -6,7 +6,7 @@ public class Constant {
 	}
 
 	public static enum RequestKey {
-		LOGIN("LOGIN"),
+		LOGIN("login"),
 		;
 	    private final String key;
 	    

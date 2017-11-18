@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>shiosaba</groupId>
 	<artifactId>ygo3</artifactId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<version>0.0.1</version>
 	<name>ygo3 Maven Webapp</name>
 	<url>http://maven.apache.org</url>
